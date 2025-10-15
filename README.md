@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🎓 Computer Science Student
 - 💻 Full Stack Developer
-- 🌱 Currently learning **React.js**
 - 🤝 Happy to connect and build an amazing network!
 
 ## 🚀 Tech Stack
